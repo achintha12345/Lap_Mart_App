@@ -25,7 +25,7 @@ object GamingLaptopDataSource {
                 imageResId = R.drawable.lenovo_ideapad_slim_5_16imh9_ultra,
                 isFavorite = false,
                 id = 2,
-                watchDesc = R.string.about_watch,
+                watchDesc = R.string.about_lenvo,
                 rating = 4.5f
             ),
             ProductData(
@@ -36,7 +36,7 @@ object GamingLaptopDataSource {
                 imageResId = R.drawable.asus_tuf_a15_gaming,
                 isFavorite = false,
                 id = 3,
-                watchDesc = R.string.about_watch,
+                watchDesc = R.string.about_asus,
                 rating = 4.5f
             ),
             ProductData(
@@ -47,7 +47,7 @@ object GamingLaptopDataSource {
                 imageResId = R.drawable.hp_victus_fb2132ax_gaming_ryzen_7,
                 isFavorite = false,
                 id = 4,
-                watchDesc = R.string.about_watch,
+                watchDesc = R.string.about_hp,
                 rating = 4.5f
             ),
             ProductData(
@@ -58,7 +58,7 @@ object GamingLaptopDataSource {
                 imageResId = R.drawable.asus_zenbook_laptop,
                 isFavorite = false,
                 id = 5,
-                watchDesc = R.string.about_watch,
+                watchDesc = R.string.about_asus_rog,
                 rating = 4.5f
             ),
             ProductData(
