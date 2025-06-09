@@ -15,7 +15,7 @@ object Laptop_StoreProductDataSource {
                 imageResId = R.drawable.asus_tuf_a15_gaming,
                 isFavorite = false,
                 id = 3,
-                watchDesc = R.string.about_watch,
+                watchDesc = R.string.about_asus_tuf_laptop,
                 rating = 4.5f
             ),
             ProductData(
@@ -26,7 +26,7 @@ object Laptop_StoreProductDataSource {
                 imageResId = R.drawable.msi_vector_16_hx,
                 isFavorite = false,
                 id = 6,
-                watchDesc = R.string.about_watch,
+                watchDesc = R.string.about_msi_vector,
                 rating = 4.5f
             )
 
