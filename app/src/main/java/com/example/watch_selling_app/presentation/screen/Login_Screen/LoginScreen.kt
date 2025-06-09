@@ -14,6 +14,8 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBackIosNew
 import androidx.compose.material.icons.filled.Mail
@@ -57,7 +59,10 @@ fun LoginScreenContent(
 
 )
 {
+    val srollState = rememberScrollState()
+
     Column (modifier = modifier
+        .verticalScroll(srollState)
         .background(color = MaterialTheme.colorScheme.background)
         .fillMaxSize(),
         horizontalAlignment = Alignment

@@ -3,7 +3,9 @@ package com.example.watch_selling_app.presentation.screen.Account_Screen
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material3.*
@@ -41,6 +43,7 @@ fun AccountScreen(
 
     val backgroundDesc = if (isDark) content.backgroundDesc else content.backgroundDesc
 
+    val scrollState = rememberScrollState()
 
     Scaffold(
         bottomBar = {
@@ -61,6 +64,7 @@ fun AccountScreen(
 
             Column(
                 modifier = Modifier
+                    .verticalScroll(scrollState)
                     .fillMaxSize()
                     .padding(Dimens.SpacingM),
                 horizontalAlignment = Alignment.CenterHorizontally,
