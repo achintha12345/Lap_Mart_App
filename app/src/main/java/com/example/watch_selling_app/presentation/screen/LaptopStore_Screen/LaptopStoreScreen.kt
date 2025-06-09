@@ -29,7 +29,7 @@ fun WatchStoreScreen(
     onBackClick: () -> Unit,
     onProductClick: (ProductData) -> Unit
 ) {
-    val screenContent = WatchStoreScreenContentDataSource.getContent()
+    val screenContent = LaptopStoreScreenContentDataSource.getContent()
     val allProducts = Laptop_StoreProductDataSource.getStoreProducts()
     val brands = BrandDataSource.getBrands()
 
