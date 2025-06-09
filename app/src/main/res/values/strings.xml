@@ -76,10 +76,10 @@
     <string name="not_available">Not Available</string>
     <string name="back_button_description">back icon button</string>
     <string name="checkout_btn_desc">Checkout button</string>
-    <string name="Description">About Watch</string>
+    <string name="Description">About Laptop</string>
     <string name="add_to_cart_title">Add To Cart</string>
     <string name="my_picks">My Picks</string>
-    <string name="watch_store_Title">Watch World</string>
+    <string name="watch_store_Title">Laptop Store</string>
     <string name="account_my_picks">My Carts</string>
     <string name="check_this_account_screen">click_to_check</string>
     <string name="account_my_messages">My Message</string>
