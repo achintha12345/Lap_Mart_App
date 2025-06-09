@@ -125,5 +125,15 @@
     <string name="hp_gaming_mdodel_name">Hp victus 15</string>
     <string name="rog_asus_mdodel_name">Asus Strix</string>
     <string name="msi_vector_mdodel_name">Msi vector 16</string>
+    <string name="about_asus_tuf_laptop">– Intel Core i5 12500H Processor\n– 16GB DDR4 3200 RAM\n– 512GB NVMe PCIe 3.0 SSD\n– 15.6″, FHD, 144Hz Refresh Rate Display\n– 4GB Nvidia RTX 3050 Graphics\n– RGB Backlit Keyboard\n– FreeDOS</string>
+    <string name="about_msi_vector">– Intel Core i9-14900HX Processor\n– 1TB NVMe Gen4x4 SSD\n– 32GB DDR5 5600MHz RAM\n– 16″ QHD+(2560 x 1600), 240Hz IPS Display\n– 8GB NVIDIA GeForce RTX 4070 Graphics\n– Per-Key RGB gaming keyboard\n– Windows 11 Home</string>
+    <string name="abou_msi_cyborg">– Intel Core i7 13620H Processor\n– 1TB NVMe PCIe SSD\n– 16GB DDR5 5200Hz RAM\n– 15.6″, FHD (1920×1080), 144Hz IPS Display\n– 8GB NVIDIA GeForce RTX 4060 Graphics\n– Single Backlit Keyboard\n– FreeDOS</string>
+    <string name="about_lenovo_laptop">– Intel Core i7-13620H Processor\n– 512GB M.2 2242 PCIe NVMe SSD\n– 16GB DDR5-4800 RAM\n– 15.3″ WUXGA (1920×1200) IPS Display\n– Intel UHD Graphics\n– Luna Grey Color\n\n</string>
+    <string name="about_asus">– Intel Core 5 210H Processor\n– 1TB PCIe 4.0 NVMe M.2 SSD\n– 16GB DDR5-5600 RAM\n– 16″, FHD (1920 x 1200, WUXGA), 144Hz IPS Display\n– 6GB NVIDIA GeForce RTX 4050 Graphics\n– Backlit Chiclet 1-Zone RGB Keyboard\n– Mecha Gray Color\n\n</string>
+    <string name="about_hp">– Intel Core i7 – 1255U Processor\n– 512GB NVMe SSD\n– 8GB DDR4 3200 RAM\n– 15.6″, FHD (1920 x 1080), IPS Display\n– Intel UHD Graphics\n– Dual stereo speakers\n– Windows 11 Pro</string>
+    <string name="about_susu_rog">– Intel Core i7 – 13650HX Processor\n– 1TB PCIe 4.0 NVMe M.2 SSD\n– 16GB DDR5 – 4800 RAM\n– 16″, FHD (1920×1200), 165Hz Refresh Rate Display\n– 8GB NVIDIA GeForce RTX 4060 Graphics\n– Windows 11 Home\n– Eclipse Gray Color</string>
+    <string name="about_msi_laptop">– Intel Core i5 – 1235U Processor\n– 8GB DDR4 3200MHZ RAM\n– 512GB NVME M.2 SSD\n– 15.6”, FHD, IPS-Level Display\n– Intel Iris Xe Graphics\n– Backlight Keyboard\n– Windows 11 Home</string>
+    <string name="about_lenvo">– AMD Ryzen 5 7235HS AI Processor\n– 512GB M.2 NVMe SSD\n– 12GB DDR5-4800 RAM\n– 15.6″ FHD (1920×1080) IPS 300nits Anti-glare Display\n– 100% sRGB, 144Hz, G-SYNC Display\n– 6GB NVIDIA GeForce RTX 3050 Graphics\n– White Backlit Keyboard\n– Windows 11 Home</string>
+    <string name="about_asus_rog">– Intel Core i7 – 13650HX Processor\n– 1TB PCIe 4.0 NVMe M.2 SSD\n– 16GB DDR5 – 4800 RAM\n– 16″, FHD (1920×1200), 165Hz Refresh Rate Display\n– 8GB NVIDIA GeForce RTX 4060 Graphics\n– Windows 11 Home\n– Eclipse Gray Color</string>
 
 </resources>

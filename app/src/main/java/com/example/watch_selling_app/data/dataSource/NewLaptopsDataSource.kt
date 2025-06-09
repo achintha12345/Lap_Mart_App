@@ -14,7 +14,7 @@ object NewLaptopsDataSource {
                 imageResId = R.drawable.msi_cyborg_gaming_15_ai_ultra_7,
                 isFavorite = false,
                 id = 1,
-                watchDesc = R.string.about_watch,
+                watchDesc = R.string.abou_msi_cyborg,
                 rating = 4.5f
             ),
             ProductData(
@@ -25,7 +25,7 @@ object NewLaptopsDataSource {
                 imageResId = R.drawable.lenovo_idepad_slim,
                 isFavorite = false,
                 id = 2,
-                watchDesc = R.string.about_watch,
+                watchDesc = R.string.about_lenovo_laptop,
                 rating = 4.5f
             ),
             ProductData(
@@ -36,7 +36,7 @@ object NewLaptopsDataSource {
                 imageResId = R.drawable.asus_tuf_a15_gaming,
                 isFavorite = false,
                 id = 3,
-                watchDesc = R.string.about_watch,
+                watchDesc = R.string.about_asus,
                 rating = 4.5f
             ),
             ProductData(
@@ -47,7 +47,7 @@ object NewLaptopsDataSource {
                 imageResId = R.drawable.hp_probook_i7,
                 isFavorite = false,
                 id = 4,
-                watchDesc = R.string.about_watch,
+                watchDesc = R.string.about_hp,
                 rating = 4.5f
             ),
             ProductData(
@@ -58,7 +58,7 @@ object NewLaptopsDataSource {
                 imageResId = R.drawable.asus_rog_strix_gaming_i7,
                 isFavorite = false,
                 id = 5,
-                watchDesc = R.string.about_watch,
+                watchDesc = R.string.about_susu_rog,
                 rating = 4.5f
             ),
             ProductData(
@@ -69,7 +69,7 @@ object NewLaptopsDataSource {
                 imageResId = R.drawable.msi_modern_15_b12m_i5,
                 isFavorite = false,
                 id = 6,
-                watchDesc = R.string.about_watch,
+                watchDesc = R.string.about_msi_laptop,
                 rating = 4.5f
             ),
 
